@@ -35,7 +35,7 @@ A comprehensive Python tool for analyzing freelancer earnings data with natural 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/test-task/freelancer-analysis.git
+   git clone https://github.com/yaga2000/test-task.git
    cd test-task
    ```
    
