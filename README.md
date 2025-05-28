@@ -35,8 +35,8 @@ A comprehensive Python tool for analyzing freelancer earnings data with natural 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/freelancer-analysis.git
-   cd freelancer-analysis
+   git clone https://github.com/test-task/freelancer-analysis.git
+   cd test-task
    ```
    
 ## Project Structure
@@ -65,12 +65,14 @@ python main.py data/freelancer_earnings_bd.csv list
 
 2. **Execute a predefined query:**
 ```
-python main.py data/freelancer_earnings_bd.csv query payment_method_comparison
+python main.py data/freelancer_earnings_bd.csv query payment_method_earnings
+**or**
+python main.py data/freelancer_earnings_bd.csv query "payment_method_earnings"
 ```
 
 3. **Ask a natural language question:**
 ```
-python main.py data/freelancer_earnings_bd.csv query "How does income vary by experience level?"
+python main.py data/freelancer_earnings_bd.csv query "Find which payment method yields the highest earnings"
 ```
 ## Available Predefined Queries
 
