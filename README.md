@@ -14,7 +14,6 @@ A comprehensive Python tool for analyzing freelancer earnings data with natural 
 - [Example Queries](#example-queries)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -117,10 +116,3 @@ pip install --upgrade langchain-community
 ollama serve
 ollama pull deepseek-r1:14b
 ```
-
-## Contributing
-1. **Fork the repository**
-2. **Create a new branch (git checkout -b feature/your-feature)**
-3. **Commit your changes (git commit -am 'Add some feature')**
-4. **Push to the branch (git push origin feature/your-feature)**
-5. **Open a Pull Request**
